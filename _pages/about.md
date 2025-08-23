@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: # 👋 Hi"
+title: #👋 Hi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-🎯 I'm a self-taught AI enthusiast passionate about building intelligent systems to solve real-world problems in:
+# 🎯 I'm a self-taught AI enthusiast passionate about building intelligent systems to solve real-world problems in:
 
 - 🤖 **Machine Learning** & **Deep Learning**  
 - 📈 **Data Analysis** using real, uncleaned datasets
