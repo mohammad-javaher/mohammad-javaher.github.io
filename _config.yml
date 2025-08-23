@@ -22,7 +22,7 @@ repository               : "mohammad-javaher/mohammad-javaher.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Mohammad Javaher"
   pronouns         : # example: "she/her"  
   bio              : "ML & DL Enthusiast | Interested in AI, IoT, Agritech and Smart Applications"
