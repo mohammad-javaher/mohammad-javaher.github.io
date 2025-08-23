@@ -22,8 +22,7 @@ redirect_from:
 
 ---
 
-## 💻 Projects   
-- 
+## 💻 [Projects](https://mohammad-javaher.github.io/projects/)   
 
 --- 
 
