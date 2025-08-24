@@ -27,9 +27,7 @@ paper also describes a simple way to estimate “reasonable
 bounds” – linearly increasing the learning rate of the net-
 work for a few epochs.
 
-
-- ![[Pasted image 20250823193221.png]]
-
+![clr](/images/clr1.png)
 # How it Works
 
 **1.** **Cycle Length:**
@@ -40,7 +38,7 @@ work for a few epochs.
     
 **3.** **Linear Decrease:**
     The learning rate then decreases linearly with the same constant, returning to the minimum learning rate over the next number of steps, completing the triangle shape. 
-![[Pasted image 20250823141010.png]]
+![clr](/images/clr2.png)
 - - - 
 An intuitive understanding of why CLR methods work is that the difficulty in minimizing the loss arises from saddle points rather than poor local minima.
 
@@ -61,6 +59,11 @@ There is a simple way to estimate reasonable minimum and maximum boundary values
 It is a “LR range test”; run your model for several epochs while letting the learning rate increase linearly between low and high LR values. 
 
 This test is enormously valuable whenever you are facing a new architecture or dataset.
+
+![clr](/images/clr3.png)
+
+![clr](/images/clr4.png)
+
 
 # Conclusion
 
