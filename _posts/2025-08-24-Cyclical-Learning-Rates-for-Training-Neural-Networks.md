@@ -7,6 +7,8 @@ tags:
   - learning_rate
 ---
 
+Paper: https://arxiv.org/abs/1506.01186
+
 <div align="center">
   <iframe width="560" height="315" src="https://youtu.be/9-PQ8PZiA_A?si=uLRCjhRrV7HvRsJS" 
   title="YouTube video" frameborder="0" allowfullscreen></iframe>
