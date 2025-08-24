@@ -6,6 +6,12 @@ tags:
   - deep_learning
   - learning_rate
 ---
+
+<div align="center">
+  <iframe width="560" height="315" src="https://youtu.be/9-PQ8PZiA_A?si=uLRCjhRrV7HvRsJS" 
+  title="YouTube video" frameborder="0" allowfullscreen></iframe>
+</div>
+
 It is known that the learning rate is the most important hyper-parameter to tune for training deep neural networks.
 
 **
