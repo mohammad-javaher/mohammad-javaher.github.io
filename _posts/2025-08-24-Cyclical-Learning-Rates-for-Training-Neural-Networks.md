@@ -9,9 +9,18 @@ tags:
 
 Paper: https://arxiv.org/abs/1506.01186
 
+# 🎥 Paper Overview: Cyclical Learning Rates
+
+Check out my video summary:
+
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dNaxm62ThW3z2la3" 
-  title="YouTube video" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/9-PQ8PZiA_A" 
+    title="Cyclical Learning Rates for Training Neural Networks" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
 
 It is known that the learning rate is the most important hyper-parameter to tune for training deep neural networks.
