@@ -21,7 +21,6 @@ I enjoy exploring how data and AI can create smarter, more efficient systems. My
 ---
 
 ## 💻 [Projects](https://mohammad-javaher.github.io/projects/)   
-<div style="display:flex; gap:20px; flex-wrap:wrap;"> <iframe src="https://mohammad-javaher.github.io/projects/" width="300" height="200" style="border:1px solid #ccc; border-radius:8px;"></iframe> <iframe src="https://mohammad-javaher.github.io/another-project/" width="300" height="200" style="border:1px solid #ccc; border-radius:8px;"></iframe> </div>
 
 --- 
 
