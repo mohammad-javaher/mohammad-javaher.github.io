@@ -1,7 +1,7 @@
 ---
 title: "MNIST Classification with PyTorch"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: projects
 ---
 
 # [project](https://github.com/mohammad-javaher/mohammad-javaher/tree/main/my-projects/MNIST%20classification%20with%20pytorch)
