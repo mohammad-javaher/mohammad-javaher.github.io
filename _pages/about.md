@@ -20,7 +20,7 @@ I enjoy exploring how data and AI can create smarter, more efficient systems. My
 
 ---
 
-## 💻 [Projects]([https://mohammad-javaher.github.io/projects/](https://github.com/mohammad-javaher))   
+## 💻 [Projects](https://mohammad-javaher.github.io/projects/](https://github.com/mohammad-javaher)   
 
 --- 
 
