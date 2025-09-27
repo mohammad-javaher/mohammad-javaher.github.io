@@ -1,5 +1,5 @@
 ---
-title: Blog Post number 1
+title: Building Linear Regression from Scratch
 date: 2025-09-27
 permalink: /posts/2025/09/LinearRegression-from-Scratch/
 tags:
